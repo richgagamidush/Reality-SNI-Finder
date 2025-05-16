@@ -14,3 +14,12 @@ cloudinary.com
 www.netlify.com
 stackoverflow.com
 www.gsmarena.com
+104.18.12.199
+162.159.140.86
+162.159.141.86
+162.159.142.86
+162.159.143.86
+162.159.144.86
+162.159.145.86
+162.159.146.86
+betika.com
